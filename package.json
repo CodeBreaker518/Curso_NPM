@@ -1,0 +1,24 @@
+{
+  "name": "curso_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBreaker518/Curso_NPM.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "react"
+  ],
+  "author": "Diego Perez <diegoperezperez518@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeBreaker518/Curso_NPM/issues"
+  },
+  "homepage": "https://github.com/CodeBreaker518/Curso_NPM#readme"
+}
