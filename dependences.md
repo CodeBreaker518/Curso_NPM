@@ -31,3 +31,9 @@ added 1 package from 1 contributor and audited 93 packages in 1.615s
 ```
 > npm install -g cowsay
 ```
+
+Corrección de dependencias opcionales
+
+🤓❗❗ Para instalar dependencias opcionales es con el **flag -O (mayúscula)** o **--save-optional**. Esto agregará la entrada "optionalDependencies" en el package.json.
+
+Si se utiliza el *flag -o (minúscula)*, el paquete será instalado como dependencia local, en "dependencies" del package.json.
