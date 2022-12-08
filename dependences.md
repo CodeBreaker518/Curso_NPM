@@ -32,8 +32,21 @@ added 1 package from 1 contributor and audited 93 packages in 1.615s
 > npm install -g cowsay
 ```
 
-Corrección de dependencias opcionales
+## Corrección de dependencias opcionales
 
-🤓❗❗ Para instalar dependencias opcionales es con el **flag -O (mayúscula)** o **--save-optional**. Esto agregará la entrada "optionalDependencies" en el package.json.
+- 🤓❗❗ Para instalar dependencias opcionales es con el **flag -O (mayúscula)** o **--save-optional**. Esto agregará la entrada "optionalDependencies" en el package.json.
 
-Si se utiliza el *flag -o (minúscula)*, el paquete será instalado como dependencia local, en "dependencies" del package.json.
+- Si se utiliza el *flag -o (minúscula)*, el paquete será instalado como dependencia local, en "dependencies" del package.json.
+
+## Instalar una dependencia en especifico
+
+- Para instalar una version en especifico sobre alguna dependiencia, es importante conocer que dependencia se instalara y por que, el comando para hacerlo es :
+
+```
+npm install dependence@version
+
+#example
+
+npm instal json-server@0.15.0
+
+```
