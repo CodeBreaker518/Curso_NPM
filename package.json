@@ -22,10 +22,14 @@
   },
   "homepage": "https://github.com/CodeBreaker518/Curso_NPM#readme",
   "dependencies": {
+    "json-server": "^0.17.1",
     "moment": "^2.29.4",
     "react": "^18.2.0"
   },
   "devDependencies": {
+    "eslint": "^8.29.0"
+  },
+  "optionalDependencies": {
     "eslint": "^8.29.0"
   }
 }
