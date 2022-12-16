@@ -35,5 +35,5 @@
 
 - `npm link`: Crea un enlace simbólico para reconocer este paquete dentro del estado de paquete que contiene npm, pero sin publicarlo. De esta forma se puede probar el paquete y garantizar que cumple con lo que se programó
 - `npm adduser`: Inicia sesión en npm desde la terminal
-- `npm publis`: Publica el proyecto creado
+- `npm publish`: Publica el proyecto creado
 - `npm version x.x.x`: Cambia la version del proyecto a x.x.x
